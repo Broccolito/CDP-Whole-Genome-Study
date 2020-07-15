@@ -1,0 +1,83 @@
+phenotype,variant,gene,phenotype_name
+hct_vena_mean,1_169519112,F5,%Hct
+hct_vena_mean,1_46643093,PIK3R4,%Hct
+hct_vena_mean,3_122128757,FAM162A,%Hct
+hct_vena_mean,10_78662861,KCNMA1,%Hct
+hct_vena_mean,1_169510139,F5,%Hct
+hct_vena_mean,9_27210401,TEK,%Hct
+hct_vena_mean,20_6747064,BMP2,%Hct
+hct_vena_mean,3_12386337,PPARG,%Hct
+hct_vena_mean,3_12393125,PPARG,%Hct
+hct_vena_mean,1_169510118,F5,%Hct
+hct_vena_mean,1_169500210,F5,%Hct
+hct_vena_mean,15_80781957,ARNT2,%Hct
+hct_vena_mean,16_729116,STUB1,%Hct
+hct_vena_mean,17_38153875,PSMD3,%Hct
+hct_vena_mean,1_46507668,PIK3R3,%Hct
+hct_vena_mean,1_85789270,DDAH1,%Hct
+hct_vena_mean,1_85864711,DDAH1,%Hct
+hct_vena_mean,1_85871701,DDAH1,%Hct
+hct_vena_mean,12_12939892,APOLD1,%Hct
+hct_vena_mean,1_85931843,DDAH1,%Hct
+hct_vena_mean,6_150288094,ULBP1,%Hct
+hct_vena_mean,12_12941567,APOLD1,%Hct
+hct_vena_mean,2_46570708,EPAS1,%Hct
+hct_vena_mean,1_169511555,F5,%Hct
+hct_vena_mean,1_101197012,VCAM1,%Hct
+hct_vena_mean,1_237207189,RYR2,%Hct
+hct_vena_mean,20_14306953,MACROD2,%Hct
+hct_vena_mean,3_30665228,TGFBR2,%Hct
+hct_vena_mean,3_30669358,TGFBR2,%Hct
+hct_vena_mean,16_88718865,CYBA,%Hct
+hct_vena_mean,2_171673475,GAD1,%Hct
+hct_vena_mean,1_8926868,ENO1,%Hct
+hct_vena_mean,7_139249426,HIPK2,%Hct
+hct_vena_mean,9_139391338,NOTCH1,%Hct
+hct_vena_mean,9_33447579,AQP3,%Hct
+cms_score,15_80781957,ARNT2,CMS Score
+cms_score,4_23815662,PPARGC1A,CMS Score
+cms_score,15_80770223,ARNT2,CMS Score
+cms_score,10_78740277,KCNMA1,CMS Score
+cms_score,10_78744521,KCNMA1,CMS Score
+cms_score,17_30791509,PSMD11,CMS Score
+cms_score,1_169482305,F5,CMS Score
+cms_score,1_169483561,F5,CMS Score
+cms_score,1_169511878,F5,CMS Score
+cms_score,20_14066276,MACROD2,CMS Score
+cms_score,2_171672981,GAD1,CMS Score
+cms_score,12_26802137,ITPR2,CMS Score
+cms_score,12_26806955,ITPR2,CMS Score
+cms_score,1_169500210,F5,CMS Score
+cms_score,1_169510118,F5,CMS Score
+cms_score,16_3890293,CREBBP,CMS Score
+cms_score,2_171673132,GAD1,CMS Score
+cms_score,10_78662861,KCNMA1,CMS Score
+cms_score,15_80884025,ARNT2,CMS Score
+cms_score,20_13975842,MACROD2,CMS Score
+cms_score,1_237829823,RYR2,CMS Score
+cms_score,17_38153875,PSMD3,CMS Score
+cms_score,1_169519112,F5,CMS Score
+cms_score,1_169510139,F5,CMS Score
+cms_score,8_26269089,BNIP3L,CMS Score
+cms_score,10_14945406,SUV39H2,CMS Score
+cms_score,10_44868257,CXCL12,CMS Score
+cms_score,1_237719177,RYR2,CMS Score
+cms_score,2_173418424,PDK1,CMS Score
+cms_score,1_151805819,RORC,CMS Score
+cms_score,12_12940830,APOLD1,CMS Score
+cms_score,1_46507668,PIK3R3,CMS Score
+cms_score,2_46552458,EPAS1,CMS Score
+cms_score,9_139391338,NOTCH1,CMS Score
+cms_score,2_40796445,SLC8A1,CMS Score
+cms_score,8_74876403,ELOC,CMS Score
+cms_score,17_4699274,PSMB6,CMS Score
+cms_score,20_15967719,MACROD2,CMS Score
+cms_score,1_101197012,VCAM1,CMS Score
+cms_score,16_8777117,ABAT,CMS Score
+cms_score,15_80889548,ARNT2,CMS Score
+cms_score,17_4701019,PSMB6,CMS Score
+cms_score,3_30665228,TGFBR2,CMS Score
+cms_score,3_30669358,TGFBR2,CMS Score
+cms_score,12_52299259,ACVRL1,CMS Score
+cms_score,19_40225031,CLC,CMS Score
+cms_score,2_46588031,EPAS1,CMS Score

@@ -1,0 +1,10 @@
+library(rstudioapi)
+
+# jobRunScript(path = "run1.R",name = "vlist1",workingDir = getwd(),importEnv = FALSE)
+# jobRunScript(path = "run2.R",name = "vlist2",workingDir = getwd(),importEnv = FALSE)
+# jobRunScript(path = "run3.R",name = "vlist3",workingDir = getwd(),importEnv = FALSE)
+# jobRunScript(path = "run4.R",name = "vlist4",workingDir = getwd(),importEnv = FALSE)
+# jobRunScript(path = "run5.R",name = "vlist5",workingDir = getwd(),importEnv = FALSE)
+# jobRunScript(path = "run6.R",name = "vlist6",workingDir = getwd(),importEnv = FALSE)
+jobRunScript(path = "run7.R",name = "vlist7",workingDir = getwd(),importEnv = FALSE)
+jobRunScript(path = "run8.R",name = "vlist8",workingDir = getwd(),importEnv = FALSE)
